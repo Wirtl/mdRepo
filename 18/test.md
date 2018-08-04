@@ -165,11 +165,7 @@ slf4j是接口，日志实现为：log4j,logback,common-logging
     </dependency>
 ```
 
-
-
-​                                      ![1518284480-fbsjNOlpkQ](./assets/1518284480-fbsjNOlpkQ.png)
-
-
+> ![1518284480-fbsjNOlpkQ](./assets/1518284480-fbsjNOlpkQ.png)
 
 
 
