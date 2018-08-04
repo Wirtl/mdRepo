@@ -1,6 +1,8 @@
+<style>
 img {
 	"align":"center"
 }
+</style>
 
 
 # TEST123
