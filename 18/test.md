@@ -174,8 +174,6 @@ slf4j是接口，日志实现为：log4j,logback,common-logging
 
 
 
-
-
 ```flow
 st=>start: Start
 op=>operation: Your Operation
